@@ -1,0 +1,83 @@
+completed_%
+registered
+viewed
+explored
+grade
+nevents
+ndays_act
+ncontent
+nforum_posts
+I am curious about MOOCs
+I am preparing for college for the first time
+I am preparing to go back to school
+I enjoy being part of a community of learners
+I enjoy learning about topics that interest me
+I hope to gain skills for a new career
+I hope to gain skills for a promotion at work
+I hope to gain skills to use at work
+I like the format (online)
+I want to try Canvas Network
+Missing
+Active
+Active participant
+Drop-in
+Missing.1
+Observer
+Passive
+Passive participant
+Between 1 and 2 hours
+Between 2 and 4 hours
+Between 4 and 6 hours
+Between 6 and 8 hours
+Less than 1 hour
+Missing.2
+More than 8 hours per week
+Completed 2-year college degree
+Completed 4-year college degree
+High School or College Preparatory School
+Master's Degree (or equivalent)
+Missing.3
+None of these
+Ph.D., J.D., or M.D. (or equivalent)
+Some college, but have not finished a degree
+Some graduate school
+{19-34}
+{34-54}
+{55 or older}
+2015 Q1
+2015 Q2
+2015 Q3
+2015 Q1.1
+2015 Q2.1
+2015 Q3.1
+grade_reqs
+course_reqs
+course_length
+Business and Management
+Computer Science
+Education
+Humanities
+Interdisciplinary and Other
+Mathematics & Statistics
+Medical Pre-Medical
+Physical Sciences
+Professions and Applied Sciences
+Social Sciences
+2014 Q1
+2014 Q2
+2014 Q3
+2014 Q4
+2015 Q1.2
+2015 Q2.2
+2015 Q3.2
+2014 Q1.1
+2014 Q2.1
+2014 Q3.1
+2014 Q4.1
+2015 Q1.1.1
+2015 Q2.1.1
+2015 Q3.1.1
+2015 Q4
+2016 Q1
+2016 Q2
+2016 Q3
